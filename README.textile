@@ -1,6 +1,6 @@
 h2. About
 
-These images and 3D models are from the <a href="http://www.bunnyagents.com/">Dust Bunnies: Secret Agents</a> iOS application, created by <a href="http://www.polycotlabs.com">Polycot Labs, LLC</a>.  We're sharing them so other people will be able to remix and reuse them to create new stories.  You'll find 53 PSDs (and assocated quick reference thumbnails) here.  Each PSD has skin and hair for the boy and girl in separate layers.  Some scenes were designed to be panned, those scenes will be wider than 1024.  The STL files were created for printing at [Shapeways](http://www.shapeways.com/shops/polycot), if you'd like a Dust Bunny figure of your very own.  You should be able to print these on your 3D printer without major tweaking.
+These images and 3D models are from the <a href="http://www.bunnyagents.com/">Dust Bunnies: Secret Agents</a> iOS application, created by <a href="http://www.polycotlabs.com">Polycot Labs, LLC</a>.  We're sharing them so other people will be able to remix and reuse them to create new stories.  You'll find 53 PSDs (and assocated quick reference thumbnails) here.  Each PSD has skin and hair for the boy and girl in separate layers.  Some scenes were designed to be panned, those scenes will be wider than 1024.  The STL files were created for printing at <a href="http://www.shapeways.com/shops/polycot">Shapeways</a>, if you'd like a Dust Bunny figure of your very own.  You should be able to print these on your 3D printer without major tweaking.
 
 h2. Scope
 
