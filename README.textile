@@ -1,10 +1,14 @@
 h2. About
 
-These images and 3D models are from the <a href="http://www.bunnyagents.com/">Dust Bunnies: Secret Agents</a> iOS application, created by <a href="http://www.polycotlabs.com">Polycot Labs, LLC</a>.  We're sharing them so other people will be able to remix and reuse them to create new stories.  You'll find 53 PSDs (and assocated quick reference thumbnails) here.  Each PSD has skin and hair for the boy and girl in separate layers.  Some scenes were designed to be panned, those scenes will be wider than 1024.  The STL files were created for printing at <a href="http://www.shapeways.com/shops/polycot">Shapeways</a>, if you'd like a Dust Bunny figure of your very own.  You should be able to print these on your 3D printer without major tweaking.
+These images and 3D models are from the <a href="http://www.bunnyagents.com/">Dust Bunnies: Secret Agents</a> iOS application, created by <a href="http://www.polycotlabs.com">Polycot Labs, LLC</a>.  We're sharing them so other people will be able to remix and reuse them to create new stories.  You'll find 53 PSDs (and assocated quick reference thumbnails) here.  Each PSD has skin and hair for the boy and girl in separate layers.  Some scenes were designed to be panned, those scenes will be wider than 1024.  The FLA files can be used to pull vector versions of the characters for higher resolution output.  The STL files were created for printing at <a href="http://www.shapeways.com/shops/polycot">Shapeways</a>, if you'd like a Dust Bunny figure of your very own.  You should be able to print these on your 3D printer without major tweaking.
 
 h2. Scope
 
 While we are releasing these images and models, we aren't releasing the Dust Bunnies characters, name, character design or story.  Those are still copyright 2011 Polycot Labs, LLC, All Rights Reserved.  Please don't just repackage these with a knock-off of Dust Bunnies: Secret Agents, use them to create something new.
+
+h2. Creators
+
+The Dust Bunnies characters were designed by <a href="http://www.deannaroy.com">Deanna Roy</a> and <a href="http://www.allegorydesign.com">Lisa Merry</a>, and the art was done by <a href="http://www.imdb.com/name/nm3197373/">J. San Miguel</a>.
 
 h2. Feedback
 
