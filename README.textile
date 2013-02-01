@@ -8,7 +8,7 @@ While we are releasing these images and models, we aren't releasing the Dust Bun
 
 h2. Creators
 
-The Dust Bunnies characters were designed by <a href="http://www.deannaroy.com">Deanna Roy</a> and <a href="http://www.allegorydesign.com">Lisa Merry</a>, and the art was done by <a href="http://www.imdb.com/name/nm3197373/">J. San Miguel</a>.
+The Dust Bunnies characters were designed by <a href="http://www.deannaroy.com">Deanna Roy</a> and <a href="http://www.allegorydesign.com">Lisa Merry</a>, and the art was done by <a href="http://www.jsanmiguel.multiply.com/">J. San Miguel</a>.
 
 h2. Feedback
 
